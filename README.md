@@ -1,7 +1,10 @@
 
 
 
-This GitHub repository (**windows-ai-agent-toolset-v1** by user wgabrys88) is a fresh proof-of-concept project demonstrating a lightweight, vision-based AI agent for automating Windows 11 desktop tasks. Overall, this is a neat, minimal take on "computer use" agents (like recent features from Anthropic/OpenAI), but fully local and dependency-free. Solid foundation—excited to see if it evolves into more general tasks or broader toolsets! If you're the author or have specific questions (e.g., feedback, improvements, or help testing), let me know.
+This GitHub repository (**windows-ai-agent-toolset-v1**) is a fresh proof-of-concept project demonstrating a lightweight, vision-based AI agent for automating Windows 11 desktop tasks. Overall, this is a neat, minimal take on "computer use" agents (like recent features from Anthropic/OpenAI), but **fully local and dependency-free**.
+
+Solid foundation - excited to see if it evolves into more general tasks or broader toolsets!
+If you have specific questions (e.g., feedback, improvements, or help testing), let me know.
 
 ### Strengths
 - Extremely lightweight and portable (no pip installs needed).
